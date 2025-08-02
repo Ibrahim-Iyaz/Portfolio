@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "id": "proj-1",
+      "name": "Railway Reservation System",
+      "createdAt": "2024-01-10T00:00:00Z",
+      "url": "https://github.com/Ibrahim-Iyaz/Railway-Reservation-System/",
+      "description": "Full-stack railway booking system using PHP, MySQL, Tailwind CSS. Features login, ticket booking, and session management.",
+      "isFork": false,
+      "languages": [
+        { "name": "PHP", "iconifyClass": "logos-php" },
+        { "name": "MySQL", "iconifyClass": "logos-mysql" },
+        { "name": "HTML", "iconifyClass": "logos-html-5" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" },
+        { "name": "Tailwind CSS", "iconifyClass": "simple-icons:tailwindcss" }
+      ]
+    },
+    {
+      "id": "proj-2",
+      "name": "Banking System CLI App",
+      "createdAt": "2023-12-15T00:00:00Z",
+      "url": "https://github.com/Ibrahim-Iyaz/Banking-Application-CLI",
+      "description": "Java-based terminal banking app implementing account creation, deposit, withdrawal, and transaction logging.",
+      "isFork": false,
+      "languages": [
+        { "name": "Java", "iconifyClass": "logos-java" }
+      ]
+    },
+    {
+      "id": "proj-3",
+      "name": "Text Formatter Application",
+      "createdAt": "2024-02-20T00:00:00Z",
+      "url": "https://github.com/Ibrahim-Iyaz/Text-Formatter-",
+      "description": "App designed in Java runs on cli to teach basic programming Which formats your provided data in desired format of Uppercase/Lowercase.",
+      "isFork": false,
+      "languages": [
+        { "name": "Java", "iconifyClass": "logos-java" }
+      ]
+    },
+    {
+      "id": "proj-4",
+      "name": "University Network Design",
+      "createdAt": "2025-03-05T00:00:00Z",
+      "url": "https://github.com/Ibrahim-Iyaz/University-Network-Design-CISCO-Pkt-Tracer/",
+      "description": "Cisco Packet Tracer design including VLANs, printers, FTP server, and wireless. Includes addressing schemes and routing setup.",
+      "isFork": false,
+      "languages": [
+        { "name": "Networking", "iconifyClass": "simple-icons:cisco" }
+      ]
+    },
+    {
+      "id": "proj-5",
+      "name": "React Native Real Estate App for Property Buying, Selling, and Renting",
+      "createdAt": "2025-07-01T00:00:00Z",
+      "url": "https://github.com/Ibrahim-Iyaz/Real-Estate-App-React-Native",
+      "description": "A cross-platform mobile application built with React Native that enables users to buy, sell, and rent residential or commercial properties. The app features property listings, search and  user authentication between buyers and sellers.",
+      "isFork": false,
+      "languages": [
+        { "name": "HTML", "iconifyClass": "logos-html-5" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" },
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "Figma", "iconifyClass": "simple-icons:figma" }
+      ]
+    }
+  ]
+}
