@@ -1,8 +1,7 @@
 {
-  "private": true,
+  "homepage": "https://ibrahimiyaz.github.io/ibrahim-portfolio/",
   "name": "ibrahim-portfolio",
   "version": "0.1.0",
-  "homepage": ".",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
